@@ -1,5 +1,5 @@
 
-![设计模式图](https://images2017.cnblogs.com/blog/401339/201709/401339-20170928225241215-295252070.png)
+![](https://raw.githubusercontent.com/driverzhang/image-storage/master/20200321193757.png)
 
 ## 1. 根据目的来分
 
