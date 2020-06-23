@@ -7,7 +7,7 @@
     * [map并发](Golang基础耕耘/map/map并发.md)
   * [test](Golang基础耕耘/test)
     * [基准测试](Golang基础耕耘/test/基准测试.md)
-  * [go中的栈和指针](Golang基础耕耘/栈和指针.md)
+  * [go中的栈和指针](Golang基础耕耘/go中的栈和指针.md)
 * [分布式系统](分布式系统/README.md)
 * [Raft](分布式系统/Raft)
     * [Raft](分布式系统/Raft/Raft.md)
